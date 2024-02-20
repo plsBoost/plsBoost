@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-Hello! I'm Adnan, a Computer Science student at UC Berkeley with a passion for developing innovative solutions and diving deep into the intricacies of modern software development. With a solid foundation in data structures, algorithms, computer architecture, and various programming languages, I am enthusiastic about contributing to open-source projects, enhancing application performance, and creating impactful user experiences.
+Hello! I'm Adnan, a Computer Science student at UC Berkeley with a passion for developing innovative solutions and diving deep into the intricacies of modern software development.
 
 ## 🎓 Education
 
