@@ -5,14 +5,11 @@ Hello! I'm Adnan, a Computer Science student at UC Berkeley with a passion for d
 ## 🎓 Education
 
 - **Bachelor of Arts in Computer Science**  
-  UC Berkeley, Class of 2024  
-  Relevant Coursework: Computer Architecture, Data Structures, Efficient Algorithms and Intractable Problems, Discrete Math and Probability, and more.
-
+  UC Berkeley, Class of 2024
+   
 ## 📫 How to reach me:
 
 - [Email](mailto:adnan_aman@berkeley.edu)
 - [LinkedIn](https://linkedin.com/in/adnan-aman)
 - [GitHub](https://github.com/plsBoost)
-
-Feel free to fork and star 🌟 my repositories or drop an issue if you find something intriguing!
 
